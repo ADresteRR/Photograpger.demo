@@ -84,7 +84,7 @@ header
     height: 155%;
     justify-content: center;
     align-items: center;
-    background: url(/bg/alimarel-hpZ6NCRLe1A-unsplash.jpg) center ;
+    background: url(alimarel-hpZ6NCRLe1A-unsplash.jpg) center ;
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
@@ -174,7 +174,7 @@ img:hover
 #about-us::before
 {
     content: "";
-    background: url(/bg/piyush-dubey-svu5bdsfsUk-unsplash.jpg) center;
+    background: url(piyush-dubey-svu5bdsfsUk-unsplash.jpg) center;
     /* background-size: cover; */
     left:0;
     width:100%;
